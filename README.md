@@ -10,4 +10,5 @@ The gameplay is similar to The World's Hardest Game where you avoid blue enemies
 This demo video shows the game in action: https://youtu.be/NDz80Hc4gQY
 
 ## Contact
+Gaurav Garre: [gauravgarre@gmail.com](mailto:gauravgarre@gmail.com)
 Project link: [https://github.com/gauravgarre/gba-game](https://github.com/gauravgarre/gba-game)
