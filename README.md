@@ -7,7 +7,7 @@ A spinoff of The World's Hardest Game built as a C program for the Gameboy Advan
 The gameplay is similar to The World's Hardest Game where you avoid blue enemies and aim to get to the other light green area. You must collect all coins in the game before going to the goal. The up, down, left, and right arrows let you control the red square. Backspace is the select button and enter is the start button.
 
 ## Gameplay
-This demo video shows the game in action: 
+This demo video shows the game in action: https://youtu.be/NDz80Hc4gQY
 
 ## Contact
 Project link: [https://github.com/gauravgarre/gba-game](https://github.com/gauravgarre/gba-game)
